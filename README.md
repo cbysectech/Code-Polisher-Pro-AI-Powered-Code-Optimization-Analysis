@@ -2,7 +2,7 @@
 **Code Polisher Pro** is a web-based tool designed to elevate code quality using the Google Gemini API. It acts as an AI-powered assistant for developers, enabling them to refactor, comment, and debug code snippets across a wide variety of programming languages. The primary goal is to make code cleaner, more efficient, and easier to understand.
 # Code Polisher Pro: AI-Powered Code Optimization & Analysis
 
-![Code Polisher Pro Showcase](https://i.imgur.com/example-image.png)  
+![Code Polisher Pro Showcase](https://image2url.com/images/1761315228191-55e8433f-ea65-47e4-b3c6-604545a8b35e.png)  
 *Note: Replace the above URL with a real screenshot of your app.*
 
 ## Key Features
